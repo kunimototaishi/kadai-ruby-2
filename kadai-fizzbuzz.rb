@@ -13,7 +13,7 @@ def FizzBuzz(num)
 end
 
 (1..num_max).each do |num|
-  puts FizzBuzz (num)
+  FizzBuzz (num)
 end
 
 
